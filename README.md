@@ -1,1 +1,1 @@
-# DataAlpha-ML_Driven_Stock_Predictions
+# Machine Learning-Powered Trading Strategies
