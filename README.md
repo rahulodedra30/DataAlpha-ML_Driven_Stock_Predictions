@@ -1,6 +1,6 @@
 # Machine Learning-Powered Trading Strategies
 
-This repository contains code and documentation for implementing machine learning-powered trading strategies. The project focuses on utilizing machine learning techniques to develop and evaluate trading strategies for financial markets.
+This repository contains code for implementing machine learning-powered trading strategies. The project focuses on utilizing machine learning techniques to develop and evaluate trading strategies for financial markets.
 
 ### Project Overview
 The project aims to develop and evaluate machine learning-powered trading strategies using a variety of data sources and methodologies. Key components of the project include:
